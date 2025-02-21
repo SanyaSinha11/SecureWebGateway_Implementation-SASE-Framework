@@ -64,11 +64,11 @@ and policy enforcement**. The key components include:
 
 ## 📜 Usage Guide
 ### Rule-Based Filtering
-    - Define custom rules to allow or block specific websites based on security policies.
+   - Define custom rules to allow or block specific websites based on security policies.
 ### Threat Detection
-    - All downloads are scanned using ClamAV before being accessed.
+   - All downloads are scanned using ClamAV before being accessed.
 ### Logging & Reporting
-    - User activity logs are stored in MariaDB for monitoring and analysis.
+   - User activity logs are stored in MariaDB for monitoring and analysis.
 
 ## 🚀 Future Enhancements
 ✅ AI-Driven Threat Detection using machine learning for advanced security.
@@ -76,11 +76,11 @@ and policy enforcement**. The key components include:
 🕵️ User Behavior Analytics for anomaly detection and proactive security.
 
 ## 🤝 Contributors
-  **Akshat Verma**
-  **Kanav**
-  **Keshav Garg**
-  **Sanya Sinha**
-  **Dr. Keshav Sinha (Guide)**
+  - **Akshat Verma**
+  - **Kanav**
+  - **Keshav Garg**
+  - **Sanya Sinha**
+  - **Dr. Keshav Sinha (Guide)**
 
 
 © 2024 SecureWebGateway_Implementation-SASE-Framework. All rights reserved.
